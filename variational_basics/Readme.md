@@ -1,6 +1,6 @@
 # Variational Quantum Circuits Projects
 
-This repository contains three progressive projects for learning variational quantum circuits (VQCs) using PennyLane. These projects demonstrate fundamental concepts in quantum machine learning, from basic parameterized circuits to quantum neural networks.
+This repository contains three progressive projects about variational quantum circuits (VQCs) using PennyLane. These projects demonstrate fundamental concepts in quantum machine learning, from basic parameterized circuits to quantum neural networks.
 
 ## Table of Contents
 1. [Introduction to Variational Quantum Circuits](#introduction)
@@ -40,7 +40,7 @@ def rotation_circuit(params):
 - **Parameter Scanning**: The code varies parameters to observe their impact on measurement outcomes
 - **Bloch Vector Visualization**: Calculates and displays the Bloch sphere representation of the qubit state
 
-**What You'll Learn:**
+**What we are getting:**
 - How parameter changes affect quantum states
 - Relationship between rotation parameters and measurement outcomes
 - Visualizing quantum states on the Bloch sphere
@@ -88,7 +88,7 @@ def cost_function(params):
 - **Optimization Loop**: Uses gradient descent to find parameters that minimize energy
 - **Final State Analysis**: Examines the optimized quantum state and its energy
 
-**What You'll Learn:**
+**What we are getting:**
 - Creating and optimizing variational ansätze
 - Encoding physical problems as Hamiltonians
 - Gradient-based optimization of quantum circuits
@@ -149,7 +149,7 @@ def cost(weights, X, y):
 - **Training Loop**: Manual gradient descent implementation for optimization
 - **Classification**: Converting quantum measurements to binary predictions
 
-**What You'll Learn:**
+**What we are getting:**
 - Encoding classical data in quantum states
 - Building multi-layer quantum circuits
 - Training quantum models for classification tasks
@@ -172,7 +172,7 @@ Install the requirements with:
 pip install pennylane numpy matplotlib scikit-learn
 ```
 
-## Learning Path and Progression
+## Path and Progression
 
 These projects follow a logical progression:
 
