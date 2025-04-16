@@ -11,8 +11,6 @@
 8. [Installation and Dependencies](#installation-and-dependencies)
 9. [Tutorials and Examples](#tutorials-and-examples)
 10. [Troubleshooting and Common Errors](#troubleshooting-and-common-errors)
-11. [Further Resources](#further-resources)
-12. [References](#references)
 
 ## Introduction
 
